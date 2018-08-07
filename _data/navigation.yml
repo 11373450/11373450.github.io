@@ -1,13 +1,13 @@
 # Site navigation links
 
-- title: Home
+- title: 首页
   url: /
 
-- title: Blog
+- title: 文章
   url: /blog/
 
-- title: Projects
+- title: 项目
   url: /projects/
 
-- title: About
+- title: 关于我
   url: /about/
