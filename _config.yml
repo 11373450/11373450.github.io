@@ -4,7 +4,7 @@ bio:            'This is PHPer blog'
 description:    "______天下事以难而废者十之一，以惰废者十之九。"
 picture:        'assets/img/profile.png'
 locale:         en_US
-url:            https://11373450.github.io/
+url:            https://11373450.github.io
 
 
 # Jekyll
